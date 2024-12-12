@@ -1,6 +1,6 @@
 '''
 HANGMAN
-Author: David Wells
+Author: 
 Based on Al Sweigart's Hangman from The Big Book of Small Python Projects
 '''
 
